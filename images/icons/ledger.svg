@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 79.5 106">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d06d2e;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #1c063e;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>Asset 4</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="LEDGER">
+      <g id="icon">
+        <rect class="cls-1" width="79.5" height="106"/>
+        <line class="cls-2" x1="13.25" y1="18.55" x2="67.58" y2="18.55"/>
+        <line class="cls-2" x1="13.25" y1="27.13" x2="67.58" y2="27.13"/>
+        <line class="cls-2" x1="40.41" y1="20.54" x2="40.5" y2="88"/>
+      </g>
+    </g>
+  </g>
+</svg>

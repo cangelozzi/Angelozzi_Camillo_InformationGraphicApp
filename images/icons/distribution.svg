@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 104 120.03">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #f70f37;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #f70f37;
+      }
+    </style>
+  </defs>
+  <title>Asset 6</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="DISTRIBUTION">
+      <g id="icon">
+        <g>
+          <circle class="cls-1" cx="62" cy="67.03" r="11"/>
+          <circle class="cls-2" cx="11" cy="56.03" r="11"/>
+          <circle class="cls-2" cx="96.5" cy="35.53" r="7.5"/>
+          <circle class="cls-2" cx="26.5" cy="111.53" r="7.5"/>
+          <line class="cls-2" x1="95.38" y1="37.66" x2="71.12" y2="61.91"/>
+          <line class="cls-2" x1="67.5" y1="76.03" x2="85" y2="105.53"/>
+          <line class="cls-2" x1="19.29" y1="59.9" x2="49.46" y2="63.57"/>
+          <line class="cls-2" x1="51" y1="17.03" x2="58.11" y2="55.69"/>
+          <line class="cls-2" x1="54.32" y1="76.68" x2="32" y2="106.03"/>
+          <line class="cls-2" x1="46" y1="16.03" x2="15.6" y2="48.86"/>
+          <line class="cls-2" x1="94.8" y1="38.66" x2="89" y2="102.03"/>
+          <circle class="cls-1" cx="89" cy="108.03" r="11"/>
+          <line class="cls-2" x1="10.04" y1="51.79" x2="27.76" y2="112.91"/>
+          <line class="cls-2" x1="77.57" y1="108.32" x2="27" y2="113.03"/>
+          <line class="cls-2" x1="98" y1="35.03" x2="57" y2="14.03"/>
+          <circle class="cls-1" cx="50.07" cy="9.14" r="8.14"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

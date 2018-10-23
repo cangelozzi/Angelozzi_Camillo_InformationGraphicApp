@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 90.05 109.68">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="78.78" y1="86.55" x2="56.11" y2="54.17" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#27acc0"/>
+      <stop offset="1" stop-color="#2d318d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="11.15" y1="86.46" x2="33.7" y2="54.25" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="45.03" y1="62.42" x2="45.03" y2="0" xlink:href="#linear-gradient"/>
+  </defs>
+  <title>Asset 7</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="BLOCK">
+      <polygon class="cls-1" points="90.05 31.03 90.05 78.66 44.84 109.68 44.84 62.06 90.05 31.03"/>
+      <polygon class="cls-2" points="0 31.03 0 78.66 44.84 109.68 44.84 62.06 0 31.03"/>
+      <polygon class="cls-3" points="0 31.39 45.21 0 90.05 31.39 44.84 62.42 0 31.39"/>
+    </g>
+  </g>
+</svg>
