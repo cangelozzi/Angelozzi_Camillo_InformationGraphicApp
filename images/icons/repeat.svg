@@ -1,0 +1,35 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 41.5 41.98">
+  <defs>
+    <linearGradient id="linear-gradient" x1="21.73" y1="13.2" x2="68.6" y2="15.07" gradientTransform="matrix(1, 0, 0, -1, 0, 50)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#273a9b"/>
+      <stop offset="0.56" stop-color="#202f65"/>
+      <stop offset="1" stop-color="#021e2f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="75.48" y1="10.55" x2="-80.52" y2="23.3" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="25.59" y1="40.71" x2="-1.29" y2="34.71" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="77.31" y1="32.89" x2="-78.69" y2="45.64" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="2.21" y1="30.86" x2="76.63" y2="42.11" gradientTransform="matrix(1, 0, 0, -1, 0, 50)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#27e9de"/>
+      <stop offset="0.52" stop-color="#03a4ec"/>
+      <stop offset="1" stop-color="#2547a8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="56.94" y1="17.95" x2="-24.06" y2="14.45" xlink:href="#linear-gradient-5"/>
+    <linearGradient id="linear-gradient-7" x1="21.74" y1="21.73" x2="21.74" y2="11" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#5358a6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x1="25.55" y1="29.86" x2="25.55" y2="16.33" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-10" x1="17.89" y1="29.86" x2="17.89" y2="16.33" xlink:href="#linear-gradient-7"/>
+  </defs>
+  <title>repeat</title>
+  <path class="cls-1" d="M35.72,40l5.79-5.79a.5.5,0,0,0,0-.71.49.49,0,0,0-.33-.15L30.57,32.7a.87.87,0,0,0-.66,1.48Z" transform="translate(-3.25 -3.01)"/>
+  <path class="cls-2" d="M41.52,33.3,36,33a14.9,14.9,0,0,1-20.84,3.14,15.46,15.46,0,0,1-2.24-2A14.69,14.69,0,0,1,9.3,26.59,3,3,0,0,0,6.3,24h0a3,3,0,0,0-3,3,2.58,2.58,0,0,0,0,.48A21,21,0,0,0,35.54,41.54a20.75,20.75,0,0,0,6.63-7,.8.8,0,0,0-.23-1.11A.77.77,0,0,0,41.52,33.3Z" transform="translate(-3.25 -3.01)"/>
+  <path class="cls-3" d="M12.28,8,6.49,13.83a.5.5,0,0,0,0,.71.49.49,0,0,0,.33.15l10.62.65a.87.87,0,0,0,.66-1.48Z" transform="translate(-3.25 -3.01)"/>
+  <path class="cls-4" d="M6.48,14.7,12,15a14.9,14.9,0,0,1,20.84-3.14,15.46,15.46,0,0,1,2.24,2,14.69,14.69,0,0,1,3.62,7.51,3,3,0,0,0,3,2.59h0a3,3,0,0,0,3-3,2.58,2.58,0,0,0,0-.48A21,21,0,0,0,12.46,6.46a20.75,20.75,0,0,0-6.63,7,.8.8,0,0,0,.23,1.11A.77.77,0,0,0,6.48,14.7Z" transform="translate(-3.25 -3.01)"/>
+  <path class="cls-5" d="M44.71,20.55A21,21,0,0,0,30.42,4,2.31,2.31,0,0,0,30,5.37v4.88a15,15,0,0,1,5.1,3.66,14.69,14.69,0,0,1,3.62,7.51,3,3,0,0,0,6-.38A3.89,3.89,0,0,0,44.71,20.55Z" transform="translate(-3.25 -3.01)"/>
+  <path class="cls-6" d="M18,42.63V37.75a15,15,0,0,1-5.1-3.66,14.69,14.69,0,0,1-3.62-7.51,3,3,0,0,0-3-2.59,3,3,0,0,0-3,3,2.58,2.58,0,0,0,0,.48A20.87,20.87,0,0,0,10.4,40a20.65,20.65,0,0,0,7.18,4A2.31,2.31,0,0,0,18,42.63Z" transform="translate(-3.25 -3.01)"/>
+  <polygon class="cls-7" points="14.07 16.39 21.77 10.99 29.4 16.39 21.7 21.73 14.07 16.39"/>
+  <polygon class="cls-7" points="14.07 16.39 21.77 10.99 29.4 16.39 21.7 21.73 14.07 16.39"/>
+  <polygon class="cls-8" points="29.4 16.33 29.4 24.52 21.7 29.86 21.7 21.67 29.4 16.33"/>
+  <polygon class="cls-9" points="14.07 16.33 14.07 24.52 21.7 29.86 21.7 21.67 14.07 16.33"/>
+</svg>

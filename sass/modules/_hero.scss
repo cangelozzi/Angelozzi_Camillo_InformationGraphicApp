@@ -1,0 +1,80 @@
+#bm {
+  width: 80%;
+  margin: 0 auto;
+}
+
+#repeat {
+  width: 3%;
+  position: absolute;
+  top: 1rem;
+  right: 2rem;
+  animation: fadeIn 15s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in-out;
+  cursor: pointer;
+
+  &:hover {
+    transform: rotate(60deg) scale(0.8);
+  }
+  &:hover > .cls-7 {
+    opacity: 0;
+  }
+  &:hover > .cls-8 {
+    opacity: 0;
+  }
+  &:hover > .cls-9 {
+    opacity: 0;
+  }
+
+  // desktop size media queries at 700px
+  @media screen and (min-width: 700px) {
+    top: 2.6rem;
+    right: 3rem;
+  }
+
+  // desktop size media queries at 1200px
+  @media screen and (min-width: 1200px) {
+    top: 5.4rem;
+    right: 4rem;
+  }
+
+}
+
+.cls-1 {
+  fill: url(#linear-gradient);
+}
+
+.cls-2 {
+  fill: url(#linear-gradient-2);
+}
+
+.cls-3 {
+  fill: url(#linear-gradient-3);
+}
+
+.cls-4 {
+  fill: url(#linear-gradient-4);
+}
+
+.cls-5 {
+  fill: url(#linear-gradient-5);
+}
+
+.cls-6 {
+  fill: url(#linear-gradient-6);
+}
+
+.cls-7 {
+  opacity: 0.2;
+  fill: url(#linear-gradient-7);
+}
+
+.cls-8 {
+  fill-opacity: 0.35;
+  fill: url(#linear-gradient-9);
+}
+
+.cls-9 {
+  opacity: 0.35;
+  fill: url(#linear-gradient-10);
+}
