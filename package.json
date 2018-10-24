@@ -1,0 +1,28 @@
+{
+  "name": "angelozzi_camillo_informationgraphicapp",
+  "version": "1.0.0",
+  "description": "infographic",
+  "main": "app.js",
+  "scripts": {
+    "dev": "gulp watch & gulp serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cangelozzi/Angelozzi_Camillo_InformationGraphicApp.git"
+  },
+  "author": "camillo angelozzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cangelozzi/Angelozzi_Camillo_InformationGraphicApp/issues"
+  },
+  "homepage": "https://github.com/cangelozzi/Angelozzi_Camillo_InformationGraphicApp#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.9.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp-imagemin": "^4.1.0"
+  }
+}
