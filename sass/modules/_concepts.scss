@@ -1,6 +1,15 @@
 #concepts {
   position: relative;
-  padding: 8rem;
+
+  // desktop size media queries at 700px
+  @media screen and (min-width: 700px) {
+    padding: 4rem;
+  }
+
+  // desktop size media queries at 1200px
+  @media screen and (min-width: 1200px) {
+    padding: 8rem;
+  }
 }
 
 h1 {
@@ -22,9 +31,13 @@ h1 {
 
 #concepts_grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(30rem, 1fr));
+  grid-template-columns: 1fr;
   grid-gap: 6rem;
-  padding: 0 10rem;
+
+  // desktop size media queries at 700px
+  @media screen and (min-width: 700px) {
+    grid-template-columns: 1fr 1fr;
+  }
 }
 
 // block into blockchain icon
@@ -80,6 +93,7 @@ h1 {
   & > p {
     color: $text;
     font-weight: 100;
+    font-size: 1.1rem;
 
     // desktop size media queries at 700px
     @media screen and (min-width: 700px) {
@@ -118,4 +132,14 @@ h1 {
 }
 #reward_title {
   color: $reward_color;
+}
+
+#orange_block {
+  transition: all;
+  animation: moveBlock 4.8s ease-in-out infinite;
+}
+
+@keyframes moveBlock {
+  0% { transform: translateX(0);}
+  100% { transform: translateX(22rem);}
 }
