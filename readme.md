@@ -6,9 +6,11 @@
 Initial page for infographic has been built using Adobe Illustrator, and animated in Adobe After Effect.  Using AE extension 'bodymovin' https://github.com/airbnb/lottie-web  I have included the `data.json` file in my setup.
 
 ![image](images/readme_img/blockchain_concepts.png)
+
 The Blockchain Concept section has been animated using sal.js library https://mciastek.github.io/sal/ 
 
 ![image](images/readme_img/bc_chart.png)
+
 In order to create and populate the chart, I have used the CoinDesk API https://www.coindesk.com/api/ which returns the bitcoin value against the USD in a one month period. 
 The data has been retrieved using Javascript Fetch API, a big challenge was to create and populate the chart after the async operation run as a consequence of `fetch`.
 Once the data has been retrieved, http://www.chartjs.org/ (Line Chart) has been used to show the data.
