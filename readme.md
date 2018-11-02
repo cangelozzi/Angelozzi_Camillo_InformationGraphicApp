@@ -16,7 +16,7 @@ The data has been retrieved using Javascript Fetch API, a big challenge was to c
 Once the data has been retrieved, http://www.chartjs.org/ (Line Chart) has been used to show the data.
 To keep the on scrolling animation even on the chart, I had to use a Chart.js plugin called `deferred` https://github.com/chartjs/chartjs-plugin-deferred 
 
-### Project Ouline
+### Project Outline
 
 The basis of this project is to take complex information – statistics, research
 results, data comparison, forms, charts, analysis, etc., – and present it in the most
